@@ -62,7 +62,7 @@ The Kira Project is a demonstration of how malware can be built using common too
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/kira-project.git
+   git clone https://github.com/Lundrim23/kira-project.git
    ```
 2. Navigate to the project directory:
    ```bash
